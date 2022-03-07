@@ -50,15 +50,4 @@ Projeto clone de APP de filmes.
 
 - Projeto de estudo em desenvolvimento....
 
-
-
-
-## Instalação
-
-Instale o projeto com :
-
-```bash
-  expo install reactflix
-  cd reactflix
-```
     
